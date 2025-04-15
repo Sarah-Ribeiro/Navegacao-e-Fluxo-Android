@@ -1,10 +1,9 @@
 # Navigation and Flow - Android
-
-## 📱 Purpose
 This project was developed as part of the FIAP coursework, with the goal of practicing screen navigation in Android and implementing animations using official Google libraries.
 
+## 📱 Purpose
 To explore navigation and screen flow concepts in Android applications, and apply animations to enhance user experience.
-<br>
+
 ## 🔧 Technologies Used
 
     Android Studio
